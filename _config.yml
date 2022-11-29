@@ -44,3 +44,6 @@ comment:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+google_analytics:
+  tracking_id: G-2KNRLWM6DB
