@@ -141,8 +141,7 @@ Open sourced under the [MIT license](LICENSE.md).
 
 local의 Working Directory, Staging Area, Repository 그리고 github의 Repository 간의 관계를 숙지함으로서  
 local에서 add, commit, push의 과정과 github로 부터 pull, reset의 과정을 이해할 수 있었다.
-![github](https://ibb.co/BKwdCKR)
-
+![github](https://user-images.githubusercontent.com/118643786/204472963-6f426a97-8b05-4d82-852b-795bd7aeeeb4.png)
 
 또한 markdown에 대해서 배웠다.
 morkdown은 일반 텍스트로 서식이 있는 문서를 작성하는 방법이다.
