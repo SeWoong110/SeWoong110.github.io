@@ -145,3 +145,4 @@ local에서 add, commit, push의 과정과 github로 부터 pull, reset의 과�
 또한 markdown에 대해서 배웠다.
 morkdown은 일반 텍스트로 서식이 있는 문서를 작성하는 방법이다.
 Header, Italic, Bold, Strikethrough, List, Code 등 많은 문법을 배웠다.
+
