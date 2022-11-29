@@ -132,3 +132,16 @@ Lanyon has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+#  Git Blog
+
+1주차에는 git과 github 그리고 markdown에 대해서 배웠다.  
+지금까지 git과 github에 대해서 많이 배웠지만 실제로 적용해서 사용해볼 일이 많지 않아서 그 기능에 대해서 자세히 알지는 못했다.  
+1주차 수업을 통해서 git의 작동 원리에 대해서 배웠다.
+
+local의 Working Directory, Staging Area, Repository 그리고 github의 Repository 간의 관계를 숙지함으로서  
+local에서 add, commit, push의 과정과 github로 부터 pull, reset의 과정을 이해할 수 있었다.
+
+또한 markdown에 대해서 배웠다.
+morkdown은 일반 텍스트로 서식이 있는 문서를 작성하는 방법이다.
+Header, Italic, Bold, Strikethrough, List, Code 등 많은 문법을 배웠다.
