@@ -37,5 +37,5 @@ Header, Italic, Bold, Strikethrough, List, Code 등 많은 문법을 배웠다.
 4주차에는 disqus를 통해 댓글 기능을 추가하였다.
 ![이미지 추가](https://user-images.githubusercontent.com/118643786/204478551-2ad81604-0886-46e5-b9be-ca5dc478639a.png)  
 
-또한 favicon과 google analytics 기능도 추가하였다.
+또한 favicon과 google analytics 기능도 추가하였다.  
 ![파비콘](https://user-images.githubusercontent.com/118643786/204479023-82965de4-6f4e-4d52-b3b1-bc86acd3c1f0.png)
